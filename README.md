@@ -22,9 +22,11 @@ O sistema é destinado a estudantes, profissionais de diversas áreas (como Tecn
 O sistema opera de forma totalmente isolada e possui acesso livre e imediato, sem a necessidade de login. Os dados são mantidos apenas na memória da sessão atual.
 
 Para rodar o projeto localmente:
-1. Certifique-se de que os arquivos `index.html`, `style.css` e `script.js` estejam na mesma pasta.
-2. Dê um duplo clique no arquivo `index.html` para abri-lo em seu navegador padrão.
-3. Não é necessária nenhuma instalação de dependências ou configuração de servidor.
+
+1. Baixe o projeto pelo link: https://github.com/GustaBaron/EasyDone
+2. Certifique-se de que os arquivos `index.html`, `style.css` e `script.js` estejam na mesma pasta.
+3. Dê um duplo clique no arquivo `index.html` para abri-lo em seu navegador padrão.
+4. Não é necessária nenhuma instalação de dependências ou configuração de servidor.
 
 ## 👨‍💻 Autor
 * **Gustavo Alexandre de Souza**
