@@ -1,4 +1,4 @@
-# [cite_start]EasyDone [cite: 14]
+## EasyDone
 
 ## 📌 Sobre o Projeto
 [cite_start]O EasyDone é uma solução tecnológica que visa ajudar as pessoas a se organizarem melhor[cite: 12]. [cite_start]O sistema oferece uma ferramenta funcional e centralizada que permite ao usuário inserir, visualizar e controlar o status de suas tarefas cotidianas de forma clara e objetiva[cite: 25]. 
