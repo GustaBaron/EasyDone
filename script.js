@@ -44,6 +44,7 @@ document.addEventListener('DOMContentLoaded', () => {
         span.textContent = taskText;
 
         // Monta o elemento na tela 
+        li.appendChild(checkbox);
         li.appendChild(span);
         taskList.appendChild(li);
 
